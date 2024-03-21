@@ -1,0 +1,31 @@
+body{
+    background-color:beige;
+}
+
+#Titulo{
+    color: green;
+    text-align: center;
+}
+#SubT{
+    color: blue;
+}
+#Desc{
+    color: blue;
+}
+#Negrito{
+    color: red;
+}
+p.finalPagina#rodape{
+    background-color: lightgray;
+    text-align: center;
+}
+#cursos{
+    text-align: center;
+    
+}
+.curso{
+background-color: lightblue;
+}
+.novo-curso{
+    background-color: lightblue;
+}
